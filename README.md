@@ -10,7 +10,7 @@
 | wR wN wB wQ wK wB wN wR 1
   a  b  c  d  e  f  g  h
 
-Created by Bhumit Patel and Matthew McCaughan for Software Methodology
+Created by Bhumit Patel and Matthew McCaughan for Software Methodology.
 
 Features
 Supports all standard chess mechanics, including:
